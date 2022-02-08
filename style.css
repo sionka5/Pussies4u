@@ -65,7 +65,7 @@ button:hover
 .Text1{text-align: center; height: 200px; position: relative;}
 
 .Cat1 { 
-    background: url(photos/2.png) center;
+    background: url(photos/KotBrytyjski.jpg) center;
     height: 100%;
     width: 100%;
     background-size:  cover;
@@ -88,7 +88,7 @@ button:hover
 }
 
 .Cat2 { 
-    background: url(photos/1.png) center;
+    background: url(photos/Cymric.jpg) center;
     height: 100%;
     width: 100%;
     background-size:  cover;
@@ -112,7 +112,7 @@ button:hover
 
 
 .Cat3 { 
-    background: url(photos/3.png) center;
+    background: url(photos/Selkirkrex.jpg) center;
     height: 100%;
     width: 100%;
     background-size:  cover;
@@ -137,7 +137,7 @@ button:hover
 
 
 .Cat4 { 
-    background: url(photos/5.png) center;
+    background: url(photos/kotsyjamski.jpg) center;
     height: 100%;
     width: 100%;
     background-size:  cover;
