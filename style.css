@@ -74,13 +74,14 @@ button:hover
 
 .Box1 {
   border-radius: 25px;
-  background: #ff6347;
+  collor: #fff;
+  background-color: brown;
   padding: 20px;
   width: 400px;
   height: 200px;
   position: relative;
   left: 1350px;
-  border: 3px solid #ff6347;
+  border: 3px solid brown;
   padding: 10px;
   top: 450px;
   text-align: center;
@@ -97,13 +98,14 @@ button:hover
 
 .Box2 {
   border-radius: 25px;
-  background: #ff6347;
+  collor: #fff;
+  background-color: brown;
   padding: 20px;
   width: 400px;
   height: 200px;
   position: relative;
   left: 1350px;
-  border: 3px solid #ff6347;
+  border: 3px solid brown;
   padding: 10px;
   top: 450px;
   text-align: center;
@@ -121,13 +123,14 @@ button:hover
 
 .Box3 {
   border-radius: 25px;
-  background: #ff6347;
+  collor: #fff;
+  background-color: brown;
   padding: 20px;
   width: 400px;
   height: 200px;
   position: relative;
   left: 1350px;
-  border: 3px solid #ff6347;
+  border: 3px solid brown;
   padding: 10px;
   top: 450px;
   text-align: center;
@@ -146,13 +149,14 @@ button:hover
 
 .Box4 {
   border-radius: 25px;
-  background: #ff6347;
+  collor: #fff;
+  background-color: brown;
   padding: 20px;
   width: 400px;
   height: 200px;
   position: relative;
   left: 1350px;
-  border: 3px solid #ff6347;
+  border: 3px solid brown;
   padding: 10px;
   top: 450px;
   text-align: center;
@@ -170,13 +174,14 @@ button:hover
 
 .Box5 {
   border-radius: 25px;
-  background: #ff6347;
+  collor: #fff;
+  background-color: brown;
   padding: 20px;
   width: 400px;
   height: 200px;
   position: relative;
   left: 1350px;
-  border: 3px solid #ff6347;
+  border: 3px solid brown;
   padding: 10px;
   top: 450px;
   text-align: center;
