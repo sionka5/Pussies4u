@@ -15,7 +15,6 @@ html{
 
 button
 {
-    
     position: absolute;
     bottom: 40%;
     left: 50%;
@@ -28,8 +27,8 @@ button
     font-size: 20px;
     margin-left: -50px;
     border-radius: 8px;	
-	transition: all 0.6s;
-	cursor: pointer;
+	  transition: all 0.6s;
+	  cursor: pointer;
     text-align: center;
 }
 button:hover
@@ -39,17 +38,7 @@ button:hover
 }
 
 
-.MainPageContainer {  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-  grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
-  gap: 0px 0px;
-  grid-auto-flow: row;
-  grid-template-areas:
-    ". . . . AboutButton"
-    ". Text Text Text ."
-    ". . . . ."
-    ". . SeePhotosButton . ."
-    ". . . . .";
+.MainPage {
     background: url(photos/fullpage.jpg) center;
     height: 100%;
     width: 100%;
@@ -64,15 +53,7 @@ button:hover
 .Welcome {text-align: center; }
 .Text1{text-align: center; height: 200px; position: relative;}
 
-.Cat1 { 
-    background: url(photos/KotBrytyjski.jpg) center;
-    height: 100%;
-    width: 100%;
-    background-size:  cover;
-    text-align: center;
-}
-
-.Box1 {
+.Box {
   border-radius: 25px;
   collor: #fff;
   background-color: brown;
@@ -83,9 +64,17 @@ button:hover
   left: 1350px;
   border: 3px solid brown;
   padding: 10px;
-  top: 450px;
+  top: 600px;
   text-align: center;
   font-size: 40px;
+}
+
+.Cat1 { 
+    background: url(photos/KotBrytyjski.jpg) center;
+    height: 100%;
+    width: 100%;
+    background-size:  cover;
+    text-align: center;
 }
 
 .Cat2 { 
@@ -96,23 +85,6 @@ button:hover
     text-align: center;
 }
 
-.Box2 {
-  border-radius: 25px;
-  collor: #fff;
-  background-color: brown;
-  padding: 20px;
-  width: 400px;
-  height: 200px;
-  position: relative;
-  left: 1350px;
-  border: 3px solid brown;
-  padding: 10px;
-  top: 450px;
-  text-align: center;
-  font-size: 40px;
-}
-
-
 .Cat3 { 
     background: url(photos/Selkirkrex.jpg) center;
     height: 100%;
@@ -120,24 +92,6 @@ button:hover
     background-size:  cover;
     text-align: center;
 }
-
-.Box3 {
-  border-radius: 25px;
-  collor: #fff;
-  background-color: brown;
-  padding: 20px;
-  width: 400px;
-  height: 200px;
-  position: relative;
-  left: 1350px;
-  border: 3px solid brown;
-  padding: 10px;
-  top: 450px;
-  text-align: center;
-  font-size: 40px;
-}
-
-
 
 .Cat4 { 
     background: url(photos/kotsyjamski.jpg) center;
@@ -147,23 +101,6 @@ button:hover
     text-align: center;
 }
 
-.Box4 {
-  border-radius: 25px;
-  collor: #fff;
-  background-color: brown;
-  padding: 20px;
-  width: 400px;
-  height: 200px;
-  position: relative;
-  left: 1350px;
-  border: 3px solid brown;
-  padding: 10px;
-  top: 450px;
-  text-align: center;
-  font-size: 40px;
-}
-
-
 .Cat5 { 
     background: url(photos/2.png) center;
     height: 100%;
@@ -171,21 +108,3 @@ button:hover
     background-size:  cover;
     text-align: center;
 }
-
-.Box5 {
-  border-radius: 25px;
-  collor: #fff;
-  background-color: brown;
-  padding: 20px;
-  width: 400px;
-  height: 200px;
-  position: relative;
-  left: 1350px;
-  border: 3px solid brown;
-  padding: 10px;
-  top: 450px;
-  text-align: center;
-  font-size: 40px;
-}
-
-
